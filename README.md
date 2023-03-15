@@ -1,1 +1,1 @@
-# Basic-Calculator-App-using-JS
+# Basic-Calculator-App-using-(HTML+CSS+JS)
